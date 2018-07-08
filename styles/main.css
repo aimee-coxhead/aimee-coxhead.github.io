@@ -1,0 +1,24 @@
+.center {
+    align-items: center;
+  }
+
+h1 {
+    text-align: left;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    padding: 20px 0px 0px 20px;
+}
+
+h4{
+    background:black; 
+    max-width: 300px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 150%;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+
