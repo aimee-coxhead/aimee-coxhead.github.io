@@ -2,6 +2,10 @@
     align-items: center;
   }
 
+.content-item{
+    margin-bottom: 20px;
+}
+
 h1 {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
@@ -19,6 +23,8 @@ h2{
 h4{
     background:#4056A1; 
     width: 100%;
+    max-width: 300px;
+    margin: auto;
     padding: 5px 0px 5px 0px;
     color:#C5CBE3;
     font-family: 'Permanent Marker', cursive;
@@ -35,6 +41,7 @@ h3{
     text-align: center;
     border-radius: 6px;
     padding: 5px 0px 5px 0px;
+
 }
 
 p{
@@ -46,6 +53,9 @@ p{
 img{
     display: block;
     width: 100%;
+    max-width: 300px;
+    max-height: 300px;
+    margin: auto;
 }
 
 a {
@@ -79,6 +89,7 @@ nav {
 nav ul{
     float: left;
     margin: 0px;
+    text-align: center;
 }
 
 nav ul li{
