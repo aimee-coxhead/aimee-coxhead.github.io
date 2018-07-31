@@ -51,8 +51,9 @@ h3{
 h5 {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
-    color: black;
-    font-size: 120%;
+    color: #EFE2BA;
+    background: #d79922;
+    font-size: 150%;
 }
 
 h6 {
